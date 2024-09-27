@@ -1,4 +1,5 @@
 # Save Nitish
+![image](https://github.com/user-attachments/assets/8d028430-f039-449e-ac72-8d4fe8e51a3c)
 
 **Save Nitish** is an engaging game set during the heat of election season, where Nitish becomes the most sought-after figure. As rivals plot to capture him for their gain, it's up to you to protect Nitish from being manipulated. Navigate through challenges, dodge traps, and outsmart opponents to ensure Nitish's safety and keep him free!
 
