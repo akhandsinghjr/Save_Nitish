@@ -20,12 +20,13 @@ In the heated election season, Nitish is crucial to every politician's campaign.
 - **Avoid**: Stay away from the other politicians.
 - **Attack**: Press the space bar to shoot slippers at politicians.
 
-## 🙋 About Me
-
-Hello! I'm Akhand. This is my first project using Phaser 3, and while the game is still a work in progress, it has been a fantastic learning experience. I created it during my midsems, which was a bit of a challenge. I'm passionate about game development and excited to keep exploring and growing in this field!
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/save-nitish.git
+
+2. **Open the project directory:**
+   ```bash
+   cd save-nitish
+3. **Run the game: Open index.html in your preferred browser.**
